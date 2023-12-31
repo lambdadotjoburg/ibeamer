@@ -5,6 +5,8 @@ To properly capture/document the front-end workflow/development process of a Jup
 & explore the main features that Jupyter Lab/Notebooks has to offer for scientific computing,
 especially/specifically for use in computational- & symbolic algebra.
 
+Youtube Link: https://youtu.be/1Qk4-liO6gc
+
 This project has since, and will continue to grow!
 
 	We ask of the audience:
