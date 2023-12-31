@@ -1,7 +1,3 @@
-script:
-  - CI=false npm run build
-  - npm run docs
-
 name: Build
 
 on:
